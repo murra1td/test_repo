@@ -2,6 +2,7 @@
 testing
 
 Git Info:
-1) make changes & save
-2a) git config --global user.name "Tim Murray"
-2b) git config --global user.email "tim.murray87@gmail.com"
+1a) git config --global user.name "Tim Murray"
+1b) git config --global user.email "tim.murray87@gmail.com"
+2) make changes & save
+3) source control --> changes --> little plus sign to stage changes --> enter commit message --> commit
